@@ -1,0 +1,147 @@
+.ajax-loading,
+
+.product-remove a.yith-ywraq-item-remove.remove{
+
+    display: inline-block;
+
+}
+
+.product-remove .ajax-loading{
+
+    vertical-align: text-bottom;
+
+}
+
+
+
+#yith-ywraq-form table.cart .product-thumbnail{
+
+    display: block;
+
+}
+
+
+
+.woocommerce #yith-ywraq-form table.shop_table.cart div.product-thumbnail img{
+
+    max-width: 60px;
+
+}
+
+
+
+a.ywraq-big-button {
+
+    padding: 6px 29px;
+
+    border-radius: 5px;
+
+    display: inline-block;
+
+}
+
+
+
+a.ywraq-big-button:hover{
+
+    text-decoration: none;
+
+}
+
+
+
+a.ywraq-big-button.ywraq-accept:hover {
+
+    background-color: #7AA327;
+
+    color: white;
+
+}
+
+
+
+a.ywraq-big-button.ywraq-accept {
+
+    background-color: #99cc33;
+
+    color: white;
+
+}
+
+
+
+a.ywraq-big-button.ywraq-reject {
+
+    background-color: #f53330;
+
+    color: white;
+
+}
+
+
+
+a.ywraq-big-button.ywraq-reject:hover {
+
+    background-color: #CF3432;
+
+    color: white;
+
+}
+
+
+
+.ywraq-buttons{
+
+    text-align: right;
+
+}
+
+
+
+.hide-modal{
+
+    display: none;
+
+}
+
+
+
+.woocommerce .related ul li.product img, .woocommerce .related ul.products li.product img.ajax-loading{
+
+    width: auto;
+
+}
+
+
+
+/*widget*/
+
+ul.yith-ywraq-list li{
+
+    margin-bottom: 10px;
+
+}
+
+ul.yith-ywraq-list .yith-ywraq-list-info{
+
+    display: inline-block;
+
+    vertical-align: top;
+
+}
+
+
+
+ul.yith-ywraq-list img{
+
+    display: inline-block; width:20%; height:auto; float:left; margin-right:10px;
+
+}
+
+
+
+ul.yith-ywraq-list .yith-ywraq-list-info .quantity{
+
+    display: block;
+
+}

@@ -1,0 +1,47 @@
+
+#top-menu li li { padding: 0 20px; margin:0; line-height:1em !important; }
+
+.woocommerce-product-search {}
+.woocommerce-product-search input{padding:10px 15px }
+
+.et_pb_widget .woocommerce-product-search input.search-field { width:98%; padding:8px 1% !important; border:solid 2px #648f0a;}
+.screen-reader-text { display:none; }
+
+.buscador-full{ position:relative;}
+#buscador { background:#CCC; text-align:center; padding:18px 0; clear:both;} 
+#buscador input.search-field{ width: 50%; border: solid 1px #ddd ;  }
+#buscador input.boton-buscar{ background:url("icoLupa.png") no-repeat right center; border:none; position:absolute; right:5px; top:-10px; padding:12px;}
+#buscador input.boton-buscar:before { content: "\55";  }
+
+.cdr{width:74% !important;float:left;padding:0 2% 0 0; overflow:hidden;}
+.lat{width:22%;float:right}
+.lateral{padding-left:1%}
+.mitad{width:50%}.cuartos{width:25%}.tercios{width:33.30%}
+.group:before,.group:after{content:"";display:table}.group:after{clear:both}.group{zoom:1}
+.col{display:block;float:left;margin:0 0 0 4%}
+.col:first-child{margin-left:0!important}.tercio{width:30.66%}.cuarto{width:22%}.medio{width:48%}
+.tres-4{width:74.6%;} .dos-3{width:65.33%;}
+
+
+.btn-enviar input {background: #648f0a;
+ color: #FFF; 
+ border: 2px solid #99CC00;
+ padding: 12px 18px; margin:1em 0 0 0;
+ display:inline-block;}
+.btn-enviar input:hover{background: #466507;}
+
+.et-cart-info{ display:none !important;}
+
+
+@media all and ( max-width: 767px ) {
+    
+ .group:before,.group:after{content:"";display:table}.group:after{clear:both}.group{zoom:1}
+.col{display:block;float:none;margin:0; clear:none;}
+.col:first-child{margin-left:0!important}.tercio{width:100%}.cuarto{width:100%}.medio{width:100%;}
+.tres-4{width:100%;} .dos-3{width:100%;}
+    
+#buscador input.search-field{ width: 70%;    }
+    
+    
+    
+    }
